@@ -1,6 +1,8 @@
 ### SciChem Tools
 A python module containing a few useful chemistry and scientific oriented tools!
 
+#### Install the environment.yml and activate it
+
 #### download_pdf
 Downloads scientific articles by checking first on SciHub and, if not possible to download, by using PDFKit. Saves the articles in a folder named "Articles"
 ```
